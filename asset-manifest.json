@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/oscar-islas.github.io/static/css/main.93c4a81e.chunk.css",
+    "main.js": "/oscar-islas.github.io/static/js/main.6c289437.chunk.js",
+    "main.js.map": "/oscar-islas.github.io/static/js/main.6c289437.chunk.js.map",
+    "runtime-main.js": "/oscar-islas.github.io/static/js/runtime-main.863bfd89.js",
+    "runtime-main.js.map": "/oscar-islas.github.io/static/js/runtime-main.863bfd89.js.map",
+    "static/js/2.0f34b750.chunk.js": "/oscar-islas.github.io/static/js/2.0f34b750.chunk.js",
+    "static/js/2.0f34b750.chunk.js.map": "/oscar-islas.github.io/static/js/2.0f34b750.chunk.js.map",
+    "index.html": "/oscar-islas.github.io/index.html",
+    "precache-manifest.1e399e88fa1dc553eddda4ea96327682.js": "/oscar-islas.github.io/precache-manifest.1e399e88fa1dc553eddda4ea96327682.js",
+    "service-worker.js": "/oscar-islas.github.io/service-worker.js",
+    "static/css/main.93c4a81e.chunk.css.map": "/oscar-islas.github.io/static/css/main.93c4a81e.chunk.css.map",
+    "static/js/2.0f34b750.chunk.js.LICENSE.txt": "/oscar-islas.github.io/static/js/2.0f34b750.chunk.js.LICENSE.txt",
+    "static/media/code.jpg": "/oscar-islas.github.io/static/media/code.833bbfcb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863bfd89.js",
+    "static/js/2.0f34b750.chunk.js",
+    "static/css/main.93c4a81e.chunk.css",
+    "static/js/main.6c289437.chunk.js"
+  ]
+}
