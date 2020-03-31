@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oscar-islas.github.io/precache-manifest.1e399e88fa1dc553eddda4ea96327682.js"
+  "/oscar-islas.github.io/precache-manifest.156cc4bc4546523cd00a5606e754ccf4.js"
 );
 
 self.addEventListener('message', (event) => {
